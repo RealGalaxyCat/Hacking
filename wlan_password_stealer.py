@@ -15,7 +15,7 @@ WIFI_FILE_PREFIX = "WLAN"
 
 
 
-def get_wlan():
+def get_wlans():
     wifi_files = []
     wifis = []
 
